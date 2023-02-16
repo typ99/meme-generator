@@ -2,4 +2,4 @@
 
 ## Watch online:
 
-[typ99.netlify.app](https://typ99.netlify.app/)
+[typ99-memegenerator.netlify.app](https://typ99-memegenerator.netlify.app/)
